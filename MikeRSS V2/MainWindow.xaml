@@ -10,7 +10,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MikeRSS_V2"
         mc:Ignorable="d"
-        Title="MainWindow" Height="650" Width="1150" KeyDown="Window_KeyDown"
+        Title="MikeRSS" Height="650" Width="1150" KeyDown="Window_KeyDown"
         >
 
     <Window.Resources>
