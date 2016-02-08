@@ -1,0 +1,24 @@
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\bin\Debug\MikeRSS V2.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\bin\Debug\MikeRSS V2.exe
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\bin\Debug\MikeRSS V2.pdb
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\MainWindow.g.cs
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\App.g.cs
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\MikeRSS V2_MarkupCompile.cache
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\MikeRSS V2_MarkupCompile.lref
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\MainWindow.baml
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\MikeRSS V2.g.resources
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\MikeRSS_V2.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\MikeRSS V2.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\MikeRSS V2.exe
+c:\users\michael\documents\visual studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\MikeRSS V2.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\MikeRSS V2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\MikeRSS V2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\AddWindow.g.cs
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\AddWindow.baml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\AboutWindow.g.cs
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\AboutWindow.baml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\MikeRSS V2\bin\Debug\Website.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\MikeRSS V2\bin\Debug\Website.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\MikeRSS V2\bin\Debug\FileIO.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\MikeRSS V2\bin\Debug\FileIO.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\MikeRSS V2\obj\Debug\MikeRSS V2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\michaeldeve\Documents\Visual Studio 2013\Projects\MikeRSS\Website\bin\Debug\Website.dll
+C:\Users\michaeldeve\Documents\Visual Studio 2013\Projects\MikeRSS\Website\bin\Debug\Website.pdb
+C:\Users\michaeldeve\Documents\Visual Studio 2013\Projects\MikeRSS\Website\obj\Debug\Website.dll
+C:\Users\michaeldeve\Documents\Visual Studio 2013\Projects\MikeRSS\Website\obj\Debug\Website.pdb
+C:\Users\michaeldeve\Documents\Visual Studio 2013\Projects\MikeRSS\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\Website\bin\Debug\Website.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\Website\bin\Debug\Website.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\Website\obj\Debug\Website.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\Website\obj\Debug\Website.pdb

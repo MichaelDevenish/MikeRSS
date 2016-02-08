@@ -1,0 +1,6 @@
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\FileIO\bin\Debug\FileIO.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\FileIO\bin\Debug\FileIO.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\FileIO\bin\Debug\Website.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\FileIO\bin\Debug\Website.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\FileIO\obj\Debug\FileIO.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\MikeRSS V2\FileIO\obj\Debug\FileIO.pdb

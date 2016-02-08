@@ -1,0 +1,4 @@
+C:\Users\michaeldeve\Documents\Visual Studio 2013\Projects\MikeRSS\Website\bin\Release\Website.dll
+C:\Users\michaeldeve\Documents\Visual Studio 2013\Projects\MikeRSS\Website\bin\Release\Website.pdb
+C:\Users\michaeldeve\Documents\Visual Studio 2013\Projects\MikeRSS\Website\obj\Release\Website.dll
+C:\Users\michaeldeve\Documents\Visual Studio 2013\Projects\MikeRSS\Website\obj\Release\Website.pdb
